@@ -33,7 +33,7 @@ focus:
   - Cybersecurity & Ethical Hacking
 currently:   Building cool stuff & breaking things (legally)
 fun_fact:    I may be slow to respond 💭
-```
+` `` 
 
 ---
 
@@ -90,10 +90,12 @@ fun_fact:    I may be slow to respond 💭
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=a0aec0" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aman25112003&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=a0aec0&count_private=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=aman25112003&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=00d4aa" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman25112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=a0aec0" />
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman25112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=a0aec0&langs_count=8" />
 
 </div>
 
@@ -124,3 +126,4 @@ fun_fact:    I may be slow to respond 💭
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+```
