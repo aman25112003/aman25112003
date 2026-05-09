@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AMAN%20SINGH&fontSize=60&fontColor=00d4aa&fontAlignY=38&desc=MERN%20%7C%20DevOps%20%7C%20Cybersecurity&descAlignY=60&descSize=20&descColor=a0aec0&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Analyst+%40+Deloitte+USI+%F0%9F%92%BC;Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Cybersecurity+Explorer+%F0%9F%94%90;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Analyst+%40+Deloitte+USI+%F0%9F%92%BC;Full+Stack+MERN+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Cybersecurity+Explorer+%F0%9F%94%90;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh2511/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amansinghh0007/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amansinghh0007)
@@ -25,63 +20,88 @@
 
 ```yaml
 name:        Aman Singh
-location:    Dehradun, Uttarakhand, India 🇮🇳
+location:    Dehradun, Uttarakhand, India
 role:        Analyst @ Deloitte USI
 focus:
   - Full Stack Development (MERN)
   - DevOps & Cloud Infrastructure
   - Cybersecurity & Ethical Hacking
 currently:   Building cool stuff & breaking things (legally)
-fun_fact:    I may be slow to respond 💭
-` `` 
+fun_fact:    I may be slow to respond
+```
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 🌐 Frontend
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/framer/black" width="45" height="45" title="Framer Motion"/>
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="45" height="45" title="GSAP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" title="React" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" title="Tailwind CSS" alt="Tailwind"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/framer/00D4AA" width="45" height="45" title="Framer Motion" alt="Framer"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="45" height="45" title="GSAP" alt="GSAP"/>
 </p>
 
 ### 🔧 Backend
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="45" height="45" title="Socket.io"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" title="Express.js" alt="Express"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB" alt="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="45" height="45" title="Socket.io" alt="Socket.io"/>
 </p>
 
 ### ☁️ DevOps & Cloud
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" height="45" title="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="45" height="45" title="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" title="Docker" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" title="Linux" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" title="GitHub" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" height="45" title="Vercel" alt="Vercel"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="45" height="45" title="Netlify" alt="Netlify"/>
 </p>
 
 ### 🔐 Cybersecurity
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg" width="45" height="45" title="CrowdStrike"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A1" width="45" height="45" title="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45" title="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="45" height="45" title="TryHackMe"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg" width="45" height="45" title="CrowdStrike" alt="CrowdStrike"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A1" width="45" height="45" title="Wireshark" alt="Wireshark"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45" title="Kali Linux" alt="Kali Linux"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="45" height="45" title="TryHackMe" alt="TryHackMe"/>
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="45" height="45" title="Obsidian"/>
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45" height="45" title="Cloudinary"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" title="Postman" alt="Postman"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="45" height="45" title="Obsidian" alt="Obsidian"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45" height="45" title="Cloudinary" alt="Cloudinary"/>
 </p>
 
 ---
@@ -90,12 +110,13 @@ fun_fact:    I may be slow to respond 💭
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=a0aec0&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=aman25112003&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=00d4aa" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=a0aec0&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://streak-stats.demolab.com?user=aman25112003&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=00d4aa"/>
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman25112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=a0aec0&langs_count=8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman25112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=a0aec0&langs_count=8"/>
 
 </div>
 
@@ -126,4 +147,3 @@ fun_fact:    I may be slow to respond 💭
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-```
