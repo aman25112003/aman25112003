@@ -6,25 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-singh2511/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/amansinghh0007/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-
-<a href="https://tryhackme.com/p/amansinghh0007" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/users/aman-singh.e999e768" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" />
-</a>
-
-<a href="https://aman-singh-portfolio7.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh2511/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/amansinghh0007/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amansinghh0007) [![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aman-singh.e999e768) [![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFB3.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://aman-singh-portfolio7.netlify.app/)
 
 </div>
 
