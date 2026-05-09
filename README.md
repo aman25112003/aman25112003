@@ -18,7 +18,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=aaaaaa&count_private=true"/>
 
 ### 👨‍💻 About Me
 
