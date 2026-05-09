@@ -78,13 +78,12 @@ const aman = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=aman25112003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=aaaaaa&count_private=true"/>
+
 &nbsp;
 <img height="175em" src="https://streak-stats.demolab.com?user=aman25112003&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=aaaaaa&dates=aaaaaa"/>
 
 <br/><br/>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman25112003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=aaaaaa&langs_count=8"/>
 
 </div>
 
